@@ -1,7 +1,7 @@
 import './registerServiceWorker';
 import { VueApplication } from '@typeclient/vue';
 import { bootstrp, usePopStateHistoryMode } from '@typeclient/core';
-import { CustomController } from './custom/custom.controller';
+import { CustomController } from '@/custom/custom.controller';
 
 // start popstate mode
 usePopStateHistoryMode();
