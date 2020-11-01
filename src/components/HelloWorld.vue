@@ -28,6 +28,15 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <h3>TypeClient</h3>
+    <ul>
+      <li><a href="https://github.com/flowxjs/TypeClient" target="_blank" rel="noopener">Github</a></li>
+      <li><a href="https://flowxjs.github.io/TypeClient/" target="_blank" rel="noopener">Document</a></li>
+      <li><a href="https://codesandbox.io/s/github/flowxjs/TypeClientVueTemplate" target="_blank" rel="noopener">Template</a></li>
+      <li><a href="https://codesandbox.io/s/github/flowxjs/TypeClientReactTemplate" target="_blank" rel="noopener">React Support Demo 1</a></li>
+      <li><a href="https://codesandbox.io/s/github/flowxjs/TypeClientReactSingleAppTempalte" target="_blank" rel="noopener">React Support Demo 2</a></li>
+      <li><a href="https://codesandbox.io/s/github/flowxjs/TypeClient-Demo-Editor" target="_blank" rel="noopener">React Support Demo 3</a></li>
+    </ul>
   </div>
 </template>
 
