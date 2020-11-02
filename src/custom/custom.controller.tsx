@@ -17,7 +17,7 @@ export class CustomController {
   Page() {
     const ctx = useApplicationContext<TCustomState>();
     return () => <Suspense v-slots={{
-      loading: <div>[{ctx.state.count}s] Loading Page ...</div>
+      loading: () => <div>[{ctx.state.count}s] Loading Page ...</div>
     }}><App /></Suspense>
   }
 }
